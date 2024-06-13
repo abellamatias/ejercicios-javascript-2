@@ -2,7 +2,7 @@
 
 ## *Descripción de los ejercicios*
 
-11 *Uso de for…of y Arrays:* Este ejercicio implica escribir una función que reciba un array de números y retorne un nuevo array con cada número elevado al cuadrado.
+1. *Uso de for…of y Arrays:* Este ejercicio implica escribir una función que reciba un array de números y retorne un nuevo array con cada número elevado al cuadrado.
 
    Utiliza un bucle for…of para iterar sobre los elementos del array.
 
